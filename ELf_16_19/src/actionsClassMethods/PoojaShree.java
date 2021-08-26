@@ -10,7 +10,7 @@ public class PoojaShree {
 		WebDriver driver = new ChromeDriver();
 		driver.manage().window().maximize();
 		
-		driver.get("https://www.instagram.com");	
+		driver.get("https://www.olx.com");	
 	}
 
 }
