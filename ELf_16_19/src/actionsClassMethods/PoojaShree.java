@@ -8,6 +8,6 @@ public static void main(String[] args) {
 	System.setProperty("webdriver.chrome.driver", "./drivers/chromedriver.exe");
 	WebDriver driver = new ChromeDriver();
 
-	driver.get("https://www.skillrary.com/user/login");
+	driver.get("https://www.facebook.com/user/login");
 }
 }
